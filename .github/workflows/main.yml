@@ -85,4 +85,4 @@ jobs:
           # Для каждого пересобранного образа 
           # устанавливаем тег latest, чтобы потом
           # на сервере и в docker-compose.yml не указывать версию
-          tags: DOCKER_USERNAME/taski_backend:latest
+          tags: maksim12001/taski_backend:latest
